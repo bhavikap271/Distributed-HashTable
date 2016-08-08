@@ -13,7 +13,7 @@
 
 •	Each node maintains a successor and predecessor pointer for nodes in the ring.
 
-•	Content Provider is NoSQL storage that:
+•	Content Provider is NoSQL storage:
 
          o The first column should be named as “key”. This column is used to store all keys.
          o The first column should be named as “value”. This column is used to store all values.
